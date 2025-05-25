@@ -1,4 +1,7 @@
 # Find the GCD of two numbers
+## NAME:LOSHINI G
+## REGISTER NO:212223220051
+## DEPARTMENT:IT
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
@@ -15,16 +18,21 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
-Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
-*/
+#Program to find the gcd of a number using function
+#Develped by: Loshini G
+#Reference No:23012268
+import math
+def gcd():
+    c=math.gcd(a,b)
+    return c
+a=int(input())    
+b=int(input())
+print("GCD of two numbers is:",gcd())
 ```
 
 ## Output:
 
-
+![ex 4](https://github.com/user-attachments/assets/d9c7cbc4-38b9-4627-9363-64d68cd6501e)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
